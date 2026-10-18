@@ -1,0 +1,9 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Hello World para probar mini-paas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
